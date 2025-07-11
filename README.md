@@ -1,11 +1,23 @@
-# odin-recipes
-This project is a simple HTML only page, meant to test my abilty so far to make a page and utilize everything I have learned.
+# Odin Recipes
 
-# what I learned
+This project is a simple HTML-only webpage, created to test my current ability to build a page and apply everything I've learned so far.
 
-## what is HTML
-HTML stands for Hypertext Markup Language and it is a decument that dectates how web browsers display the documents meant to be a web page.
+## What I Learned
 
-## elemnts
-The main way to read the input is through elements, every elemnt has a meaning reagrding hoe to interpet the input, for examble if I using the <p> element the browser will interpet this as a paragraph, and <h1> will be header, even though they may seem similar at first glance everything they are read very differently from the browser's side, and that is what is imprtant, not knowing every tag, but rather understanding how they are interpeted, which hopefully I will domentrate the concepets on this page.
+### What is HTML?
 
+HTML stands for HyperText Markup Language. It's a document format that tells web browsers how to display content intended for the web.
+
+## Elements
+
+The main way a browser reads and interprets content is through elements. Every element has a specific meaning that tells the browser how to handle and display it.
+
+For example:
+
+   * The <p> element is interpreted as a paragraph.
+
+   * The <h1> element is read as a header.
+
+Even though these might look similar at a glance, they serve very different purposes behind the scenes. The key isn’t memorizing every tag, **but rather understanding how the browser interprets each element**.
+
+Hopefully, this project will help demonstrate the concepts I’ve learned.
