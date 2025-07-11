@@ -14,9 +14,9 @@ The main way a browser reads and interprets content is through elements. Every e
 
 For example:
 
-   * The <p> element is interpreted as a paragraph.
+   * The `<p>` element is interpreted as a paragraph.
 
-   * The <h1> element is read as a header.
+   * The `<h1>` element is read as a header.
 
 Even though these might look similar at a glance, they serve very different purposes behind the scenes. The key isn’t memorizing every tag, **but rather understanding how the browser interprets each element**.
 
