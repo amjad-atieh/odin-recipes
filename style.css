@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(53, 50, 50);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.image-container {
+    margin: auto;
+    text-align: center;
+}
+
+
+li {
+    margin: 6px;
+}
+
+.home-button {
+    display: flex;
+    margin: auto;
+}
